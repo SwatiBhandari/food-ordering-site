@@ -1,0 +1,451 @@
+[
+    {
+        "id":1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZBle6eziQNj5U3c8ax4Q0FG0VpLl35AgLg&usqp=CAU",
+        "title":"Panipuri",
+        "price":20,
+        "rating":4,
+        "Stall":"Ambika"
+    },
+    {
+        "id":2,
+        "image":"",
+        "title":"Shev Puri",
+        "price":30,
+        "rating":"4",
+        "Stall":"Ambika"
+    },
+    {
+        "id":3,
+        "image":"",
+        "title":"Dahi Puri",
+        "price":35,
+        "rating":"3",
+        "Stall":"Ambika"
+    },
+    {
+        "id":4,
+        "image":"",
+        "title":"Sukha Puri",
+        "price":20,
+        "rating":"4",
+        "Stall":"Ambika"
+    },
+    {
+        "id":5,
+        "image":"",
+        "title":"Sukha Bhel",
+        "price":25,
+        "rating":"2",
+        "Stall":"Ambika"
+    },
+    {
+        "id":6,
+        "image":"",
+        "title":"Geela Bhel",
+        "price":25,
+        "rating":"3",
+        "Stall":"Ambika"
+    },
+    {
+        "id":7,
+        "image":"",
+        "title":"Aaloo Chaat",
+        "price":30,
+        "rating":"5",
+        "Stall":"Ambika"
+    },
+    {
+        "id":8,
+        "image":"",
+        "title":"Samosa Chaat",
+        "price":30,
+        "rating":"4",
+        "Stall":"Ambika"
+    },
+    {
+        "id":9,
+        "image":"",
+        "title":"Panipuri",
+        "price":25,
+        "rating":"5",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":10,
+        "image":"",
+        "title":"Shev Puri",
+        "price":30,
+        "rating":"4",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":11,
+        "image":"",
+        "title":"Sukha Puri",
+        "price":20,
+        "rating":"5",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":12,
+        "image":"",
+        "title":"Bhel Puri",
+        "price":25,
+        "rating":"4",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":13,
+        "image":"",
+        "title":"Sukha Bhel",
+        "price":30,
+        "rating":"2",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":14,
+        "image":"",
+        "title":"Geela Bhel",
+        "price":30,
+        "rating":"4",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":15,
+        "image":"",
+        "title":"Dahi Puri",
+        "price":30,
+        "rating":"5",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":16,
+        "image":"",
+        "title":"Ragda Puri",
+        "price":25,
+        "rating":"4",
+        "Stall":"Shree Ram Bhel Puri"
+    },
+    {
+        "id":17,
+        "image":"",
+        "title":"Falooda(Gulkand)",
+        "price":45,
+        "rating":"5",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":18,
+        "image":"",
+        "title":"Falooda(Mango)",
+        "price":50,
+        "rating":"4",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":19,
+        "image":"",
+        "title":"Kulfi(Malai)",
+        "price":35,
+        "rating":"5",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":20,
+        "image":"",
+        "title":"Kulfi(American DryFruits)",
+        "price":35,
+        "rating":"5",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":21,
+        "image":"",
+        "title":"Strawberry Icecream",
+        "price":25,
+        "rating":"3",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":22,
+        "image":"",
+        "title":"Pista Icecream",
+        "price":25,
+        "rating":"3",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":23,
+        "image":"",
+        "title":"Badam Shake",
+        "price":50,
+        "rating":"5",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":24,
+        "image":"",
+        "title":"Cold coco",
+        "price":40,
+        "rating":"3",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":25,
+        "image":"",
+        "title":"Single Idli",
+        "price":20,
+        "rating":"4",
+        "Stall":"Bhairavnath Kulfi"
+    },
+    {
+        "id":26,
+        "image":"",
+        "title":"Single Vada",
+        "price":25,
+        "rating":"3",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":27,
+        "image":"",
+        "title":"Benne Dosa",
+        "price":35,
+        "rating":"4",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":28,
+        "image":"",
+        "title":"Masala Dosa",
+        "price":40,
+        "rating":"4",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":29,
+        "image":"",
+        "title":"Uppit",
+        "price":25,
+        "rating":"3",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":30,
+        "image":"",
+        "title":"Sheera",
+        "price":20,
+        "rating":"3",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":31,
+        "image":"",
+        "title":"Batata Vada",
+        "price":20,
+        "rating":"4",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":32,
+        "image":"",
+        "title":"Kanda Bhaji",
+        "price":25,
+        "rating":"5",
+        "Stall":"Bhaskar Canteen"
+    },
+    {
+        "id":33,
+        "image":"",
+        "title":"Butter Corn",
+        "price":25,
+        "rating":"4",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":34,
+        "image":"",
+        "title":"Tanduri Corn",
+        "price":30,
+        "rating":"5",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":35,
+        "image":"",
+        "title":"Masala Corn",
+        "price":35,
+        "rating":"3",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":36,
+        "image":"",
+        "title":"Pepper Lemon Corn",
+        "price":30,
+        "rating":"2",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":37,
+        "image":"",
+        "title":"Chilly Lemon Corn",
+        "price":30,
+        "rating":"4",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":38,
+        "image":"",
+        "title":"Chinese Corn",
+        "price":35,
+        "rating":"3",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":39,
+        "image":"",
+        "title":"BBQ Corn",
+        "price":30,
+        "rating":"4",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":40,
+        "image":"",
+        "title":"Cheese Corn",
+        "price":40,
+        "rating":"3",
+        "Stall":"Swsti American Sweet Corn"
+    },
+    {
+        "id":41,
+        "image":"",
+        "title":"Masala Cheese Grilled Sandwitch",
+        "price":30,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":42,
+        "image":"",
+        "title":"Samosa Grilled Sandwitch",
+        "price":35,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":43,
+        "image":"",
+        "title":"Corn Cheese Grilled Sandwitch",
+        "price":35,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":44,
+        "image":"",
+        "title":"Mashroom Pizza",
+        "price":60,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":45,
+        "image":"",
+        "title":"Paneer Pizza",
+        "price":60,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":46,
+        "image":"",
+        "title":"Chocolate Sandwitch",
+        "price":40,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":47,
+        "image":"",
+        "title":"Veg Cheese Pizza",
+        "price":60,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":48,
+        "image":"",
+        "title":"Jam Grilled Sandwitch",
+        "price":30,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":49,
+        "image":"",
+        "title":"Classic Vada Pav",
+        "price":20,
+        "rating":"4",
+        "Stall":"Govind Vada Pav"
+    },
+    {
+        "id":50,
+        "image":"",
+        "title":"Cheese Vada Pav",
+        "price":30,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":51,
+        "image":"",
+        "title":"Tandoori Vada Pav",
+        "price":25,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":52,
+        "image":"",
+        "title":"Shezwaan Vada Pav ",
+        "price":30,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":53,
+        "image":"",
+        "title":"Tikka Masala Vada Pav",
+        "price":30,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":54,
+        "image":"",
+        "title":"PeriPeri Vada Pav",
+        "price":30,
+        "rating":"4",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":55,
+        "image":"",
+        "title":"Chilly Vada Pav",
+        "price":35,
+        "rating":"3",
+        "Stall":"Sahil's Fast Food"
+    },
+    {
+        "id":56,
+        "image":"",
+        "title":"Crispy Vada Pav",
+        "price":35,
+        "rating":"3"
+    }
+
+
+]

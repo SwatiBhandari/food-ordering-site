@@ -1,0 +1,27 @@
+.Orders{
+    background: #fff5ee;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.OrderGlass{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    background: #fff5ee;
+    overflow: hidden;
+    grid-template-columns: 15% 82%;
+}
+.Order_table{
+    border: 2px solid black;
+    width:700px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.heading_orders{
+    margin-top: 30px;
+    margin-left: 20px;
+}

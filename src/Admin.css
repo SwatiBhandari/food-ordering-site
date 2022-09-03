@@ -1,0 +1,16 @@
+.Admin{
+    background: #fff5ee;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AdminGlass{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    background: #fff5ee;
+    overflow: hidden;
+    grid-template-columns: 15% 85%;
+}

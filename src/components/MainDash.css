@@ -1,0 +1,17 @@
+.MainDash{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.dash{
+    display: flex;
+    gap:50px;
+}
+
+.recent_order_table{
+    border: 2px solid black;
+    width:800px;
+    text-align: center;
+}

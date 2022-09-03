@@ -1,0 +1,27 @@
+.Users{
+    background: #fff5ee;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.UsersGlass{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    background: #fff5ee;
+    overflow: hidden;
+    grid-template-columns: 15% 82%;
+}
+
+.User_table{
+    border: 2px solid black;
+    text-align: center;
+    width: 100px;
+    margin-top: 50px;
+}
+.heading_users{
+    margin-top: 30px;
+    margin-left: 20px;
+}
